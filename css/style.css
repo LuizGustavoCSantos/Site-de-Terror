@@ -1,0 +1,16 @@
+body{
+  background-color: black;
+}
+
+.btn_olho{
+ text-align: center;
+ padding-top: 300px;
+}
+
+.btn_vejatudo{
+  height: 50px;
+  width: 200px;
+  border-radius: 100px;
+  
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
