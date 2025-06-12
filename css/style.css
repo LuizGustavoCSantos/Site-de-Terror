@@ -1,3 +1,17 @@
 body{
   background-color: black;
 }
+
+
+.btn-alem{
+   background-color: #ffffff; /* cor desejada */
+   color: rgb(0, 0, 0);
+}
+
+ .btn-alem:hover {
+    background-color: #ffffff;
+  }
+
+  .mt-custom1{
+    margin-top: 600px;
+  }
