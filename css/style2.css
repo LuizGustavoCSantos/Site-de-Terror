@@ -1,10 +1,7 @@
 body{
   background-color: black;
 }
-.voltar1{
-  height: 50px;
-  width: 200px;
-  border-radius: 100px;
-  
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+.nav-link{
+  color: white;
 }

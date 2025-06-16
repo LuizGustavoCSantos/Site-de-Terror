@@ -2,6 +2,7 @@ body{
   background-color: black;
 }
 
+/* Configuração do botão começa aqui*/
 .btn-alem{
    background-color: #ffffff; /* cor desejada */
    color: rgb(0, 0, 0);
@@ -16,3 +17,8 @@ body{
   .mt-custom1{
     margin-top: 100px;
   }
+/*Botão Configs Termina Aqui*/
+
+.nav-link{
+  color: white;
+}
