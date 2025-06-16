@@ -6,6 +6,7 @@ body{
    background-color: #ffffff; /* cor desejada */
    color: rgb(0, 0, 0);
    border-radius: 60px;
+   margin-left: 0px;
 }
 
  .btn-alem:hover {
