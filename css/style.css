@@ -26,3 +26,18 @@ body{
 .text-center{
 margin-top: 150px;
 }
+
+.imagem_livre1{
+  position: absolute;
+  top: 150px;     
+  left: 300px;    
+  width: 220px
+}
+
+
+.imagem_livre2{
+  position: absolute;
+  top: 100px;    
+  left: 1250px;    
+  width: 220px
+}
