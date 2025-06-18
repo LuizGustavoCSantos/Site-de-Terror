@@ -30,7 +30,7 @@ margin-top: 150px;
 .imagem_livre1{
   position: absolute;
   top: 150px;     
-  left: 300px;    
+  left: 350px;    
   width: 220px
 }
 
@@ -41,4 +41,30 @@ margin-top: 150px;
   width: 220px
 }
 
+.imagem_livre3{
+  position: absolute;
+  top: 50px;    
+  left: 850px;    
+  width: 220px
+}
 
+.imagem_livre4{
+  position: absolute;
+  top: 600px;    
+  left: 200px;    
+  width: 220px
+}
+
+.imagem_livre5{
+  position: absolute;
+  top: 600px;    
+  left: 1450px;    
+  width: 220px
+}
+
+.imagem_livre6{
+  position: absolute;
+  top: 750px;    
+  left: 850px;    
+  width: 220px
+}
