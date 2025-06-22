@@ -9,3 +9,7 @@ body{
 .carousel slide{
   
 }
+
+li::marker{
+  font-size:0;
+}
