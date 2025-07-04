@@ -10,3 +10,8 @@ li::marker{
   font-size:0;
 }
 
+.img-fluid{
+  width: 70%;
+  height: auto;
+  translate: 20% 0%;
+}
